@@ -1,10 +1,8 @@
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # tictactoe
 
 ## 实例
-[shop-cart](https://kikukikukku.github.io/tictactoe)
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[stictactoe](https://kikukikukku.github.io/tictactoe/)
 
 ## Available Scripts
 
